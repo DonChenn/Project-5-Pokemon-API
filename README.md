@@ -41,7 +41,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned the skill of utilizing an API to access and retrieve data.
 
 ## License
 
