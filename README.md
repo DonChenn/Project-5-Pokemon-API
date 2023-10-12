@@ -24,7 +24,7 @@ The following REQUIRED features are completed:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **https://pokeapi.co/**.
 
 ## Video Demo
 
